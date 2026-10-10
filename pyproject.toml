@@ -34,7 +34,7 @@ Issues = "https://github.com/qqfunc/objctypes/issues"
 check = [
   "editorconfig-checker==3.11.1",
   "ruff==0.15.22",
-  "ty==0.0.85",
+  "ty==0.0.86",
   "types-setuptools==84.0.0.20261006",
   "typos==1.51.1",
 ]
